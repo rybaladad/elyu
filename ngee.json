@@ -107,4 +107,13 @@
     "lat": 16.204001,
     "lng": 120.040869
   }
+   {
+    "id": 218,
+    "name": "Calamian Islands",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/hundred.jpg",
+    "price": 700,
+    "priceCurrency": "km",
+    "lat": 11.918691,
+    "lng": 120.979822
+  }
 ]
