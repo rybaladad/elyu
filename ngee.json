@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "Bawanta City",
+    "name": "Bawanta",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.png",
     "price": 90,
     "priceCurrency": "PESO",
@@ -10,47 +10,47 @@
   },
   {
     "id": 148,
-    "name": "Grape Farm",
+    "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.jpg",
     "price": 200,
     "priceCurrency": "PESO",
-    "lat": 16.491487,
-    "lng": 120.324812
+    "lat": 11.967375,
+    "lng": 121.924815
   },
   {
     "id": 201,
-    "name": "Oasis Resort",
+    "name": "Puerto Princesa Subterranean River National Park",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/2.jpg",
     "price": 150,
     "priceCurrency": "PESO",
-    "lat": 16.590576,
-    "lng": 120.323370
+    "lat": 10.192559,
+    "lng": 118.926583
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
     "price": 115,
     "priceCurrency": "PESO",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 9.829708,
+    "lng": 124.139676
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "Siargao",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
     "price": 135,
     "priceCurrency": "PESO",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 9.848188,
+    "lng": 126.045844
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Banaue Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.923954,
+    "lng": 121.055640
   }
 ]
