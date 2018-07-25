@@ -4,7 +4,7 @@
     "name": "Bawanta",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.png",
     "price": 0,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 16.554621,
     "lng": 120.342109
   },
@@ -13,7 +13,7 @@
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/boracay.jpg",
     "price": 707,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 11.967375,
     "lng": 121.924815
   },
@@ -22,7 +22,7 @@
     "name": "Puerto Princesa Subterranean River National Park",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/palawan.jpg",
     "price": 1069,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 10.192559,
     "lng": 118.926583
   },
@@ -31,7 +31,7 @@
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/choco.png",
     "price": 1191,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 9.829708,
     "lng": 124.139676
   },
@@ -40,7 +40,7 @@
     "name": "Siargao",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Siargaoisland.jpg",
     "price": 274,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 9.848188,
     "lng": 126.045844
   },
@@ -49,7 +49,7 @@
     "name": "Banaue Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
     "price": 218,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 16.923954,
     "lng": 121.055640
   },
@@ -58,7 +58,7 @@
     "name": "Mactan",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/mactan.jpg",
     "price": 1117,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 10.299046,
     "lng": 123.963853
   },
@@ -67,7 +67,7 @@
     "name": "Panglao Island",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/panglao.jpg",
     "price": 1223,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 9.587356,
     "lng": 123.807630
   },
@@ -76,7 +76,7 @@
     "name": "Coron Island",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/coron.jpg",
     "price": 708,
-    "priceCurrency": "PESO",
+    "priceCurrency": "km",
     "lat": 11.928329,
     "lng": 120.239734
   },
@@ -85,7 +85,7 @@
     "name": "Taal Volcano",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Taal-Volcano.jpg",
     "price": 374,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 14.011253,
     "lng": 120.997691
   },
@@ -94,7 +94,7 @@
     "name": "Subic Bay",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/subic.jpg",
     "price": 249,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 14.791058,
     "lng": 120.239734
   },
@@ -103,7 +103,7 @@
     "name": "Hundred Islands National Park",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/hundred.jpg",
     "price": 125,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 16.204001,
     "lng": 120.040869
   }
