@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Boracay",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/boracay.jpg",
     "price": 200,
     "priceCurrency": "PESO",
     "lat": 11.967375,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Puerto Princesa Subterranean River National Park",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/palawan.jpg",
     "price": 150,
     "priceCurrency": "PESO",
     "lat": 10.192559,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Chocolate Hills",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/choco.png",
     "price": 115,
     "priceCurrency": "PESO",
     "lat": 9.829708,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Siargao",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Siargaoisland.jpg",
     "price": 135,
     "priceCurrency": "PESO",
     "lat": 9.848188,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Banaue Rice Terraces",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 16.923954,
