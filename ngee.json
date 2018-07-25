@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Puerto Princesa Subterranean River National Park",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/palawan.jpg",
-    "price": 1,069,
+    "price": 1069,
     "priceCurrency": "KM",
     "lat": 10.192559,
     "lng": 118.926583
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/choco.png",
-    "price": 1,191,
+    "price": 1191,
     "priceCurrency": "KM",
     "lat": 9.829708,
     "lng": 124.139676
@@ -57,7 +57,7 @@
     "id": 212,
     "name": "Mactan",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/mactan.jpg",
-    "price": 1,117,
+    "price": 1117,
     "priceCurrency": "KM",
     "lat": 10.299046,
     "lng": 123.963853
@@ -66,7 +66,7 @@
     "id": 213,
     "name": "Panglao Island",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/panglao.jpg",
-    "price": 1,223,
+    "price": 1223,
     "priceCurrency": "KM",
     "lat": 9.587356,
     "lng": 123.807630
