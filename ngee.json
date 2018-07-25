@@ -56,7 +56,7 @@
   {
     "id": 212,
     "name": "Mactan",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/mactan.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 10.299046,
@@ -65,7 +65,7 @@
   {
     "id": 213,
     "name": "Panglao Island",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/panglao.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 9.587356,
@@ -74,7 +74,7 @@
   {
     "id": 214,
     "name": "Coron Island",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/coron.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 10.299046,
@@ -83,7 +83,7 @@
   {
     "id": 215,
     "name": "Taal Volcano",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Taal-Volcano.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 10.299046,
@@ -92,7 +92,7 @@
   {
     "id": 216,
     "name": "Subic Bay",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/subic.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 10.299046,
@@ -101,7 +101,7 @@
   {
     "id": 217,
     "name": "Hundred Islands National Park",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/hundred.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 10.299046,
